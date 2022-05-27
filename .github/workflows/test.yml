@@ -1,4 +1,4 @@
-name: test
+name: Run Test Cases
 
 on: [push]
 
